@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px #a5aaad;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(99, 102, 241, 1);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a5aaad;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Rubik', sans-serif;
+}
+
+.grapefruit-1 {
+  background-color: #ED5565
+}
+
+.grapefruit-2 {
+  background-color: #DA4453
+}
+
+.bittersweet-1 {
+  background-color: #FC6E51
+}
+
+.bittersweet-2 {
+  background-color: #E9573F
+}
+
+.sunflower-1 {
+  background-color: #FFCE54
+}
+
+.sunflower-2 {
+  background-color: #FCBB42
+}
+
+.mint-1 {
+  background-color: #48CFAD
+}
+
+.mint-2 {
+  background-color: #37BC9B
+}
+
+.aqua-1 {
+  background-color: #4FC1E9
+}
+
+.aqua-2 {
+  background-color: #3BAFDA
+}
+
+.bluejeans-1 {
+  background-color: #5D9CEC
+}
+
+.bluejeans-2 {
+  background-color: #4A89DC
+}
+
+.lavender-1 {
+  background-color: #AC92EC
+}
+
+.lavender-2 {
+  background-color: #967ADC
+}
+
+.pinkrose-1 {
+  background-color: #EC87C0
+}
+
+.pinkrose-2 {
+  background-color: #D770AD
+}
+
+.blue {
+  background-color: #033291
+}
+
+.yellow {
+  background-color: #ffb200
+}
+
+.example::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.example {
+-ms-overflow-style: none;  /* IE and Edge */
+scrollbar-width: none;  /* Firefox */
+}

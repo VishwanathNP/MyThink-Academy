@@ -1,0 +1,5 @@
+.current {
+    color: rgba(17, 24, 39, 1);
+    border-bottom-width: 2px;
+    border-color: rgba(139, 92, 246, 1)
+}

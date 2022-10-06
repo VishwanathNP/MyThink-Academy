@@ -1,0 +1,8 @@
+.navbar-nav .nav-list .active {
+    background-color: rgba(217, 119, 6, 1);
+    color: rgba(255, 255, 255, 1)
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block !important;
+}
